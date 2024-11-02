@@ -1,4 +1,5 @@
-# React + Vite
+
+React web app using AWS Amplify to host it on AWS. Provisioned a cloud backend and used Amplify to configure auth, data, and storage resources. Also with a frontend allowing users to create, read, update, and delete their notes, allowing them to select and upload an image to associate it with their notes.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
